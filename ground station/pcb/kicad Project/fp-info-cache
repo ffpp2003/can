@@ -1,4 +1,4 @@
-19795852055431094
+19799254773426728
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -73751,6 +73751,13 @@ TO-264-5 Vertical RM 3.81mm
 0
 5
 5
+Personzalizados
+RELAY PANASONIC
+
+
+0
+8
+8
 Potentiometer_SMD
 Potentiometer_ACP_CA6-VSMD_Vertical
 Potentiometer, vertical, ACP CA6-VSMD, http://www.acptechnologies.com/wp-content/uploads/2017/06/01-ACP-CA6.pdf
@@ -75781,6 +75788,13 @@ AXICOM HF3-Series Relay Pitch 1.27mm 75ohm
 0
 16
 16
+Relay_THT
+RELAY PANASONIC
+
+
+0
+8
+8
 Relay_THT
 Relay_1-Form-A_Schrack-RYII_RM5mm
 Relay, 1-Form-A, Schrack-RYII, RM5mm, SPST-NO
