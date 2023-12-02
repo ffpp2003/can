@@ -385,8 +385,8 @@
       "idf": "",
       "netlist": "estacion terrena.net",
       "specctra_dsn": "",
-      "step": "",
-      "vrml": ""
+      "step": "estacion terrena.step",
+      "vrml": "estacion terrena.wrl"
     },
     "page_layout_descr_file": ""
   },
