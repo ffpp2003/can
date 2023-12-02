@@ -120,7 +120,8 @@
       },
       "track_widths": [
         0.0,
-        0.75
+        0.75,
+        1.0
       ],
       "via_dimensions": [
         {
@@ -385,7 +386,7 @@
       "idf": "",
       "netlist": "estacion terrena.net",
       "specctra_dsn": "",
-      "step": "estacion terrena.step",
+      "step": "../../3d models/V3/estacion_terrena_pcb.step",
       "vrml": "estacion terrena.wrl"
     },
     "page_layout_descr_file": ""
